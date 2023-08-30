@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import Educationcard from "./Educationcard";
 import Particle from "../Particle";
 import vidya from "../../Assets/Education/vidyabharti.jpeg"
-import Certificate from "./Certificate"
 
-function Projects() {
+
+function Certificate() {
   return (
     <Container fluid className="education-section">
       <Particle />
@@ -40,10 +40,10 @@ function Projects() {
          
 
         </Row>
-        <Certificate/>
+      
       </Container>
     </Container>
   );
 }
 
-export default Projects;
+export default Certificate;
