@@ -94,8 +94,8 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item> */}
             
-            <Nav.Item>
-              <Nav.Link as={Link} to="/education" onClick={() => updateExpanded(false)}>
+            {/* <Nav.Item>
+              <Nav.Link as={Link} to="" onClick={() => updateExpanded(false)}>
                 <ImBlog style={{ marginBottom: "2px" }} /> Education
               </Nav.Link>
             </Nav.Item>
@@ -103,12 +103,12 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/contact"
+                to="/"
                 onClick={() => updateExpanded(false)}
               >
                 <MdContactPage style={{ marginBottom: "2px" }} /> Contact
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
             <Nav.Item className="fork-btn">
               <Button
