@@ -76,21 +76,21 @@ function Techstack() {
         DiGit / >
         <
         /Col> {
-            /* <Col xs={4} md={2} className="tech-icons">
+             <Col xs={4} md={2} className="tech-icons">
                     <SiFirebase />
-                  </Col> */
+                  </Col>
         } {
-            /* <Col xs={4} md={2} className="tech-icons">
+            <Col xs={4} md={2} className="tech-icons">
                     <SiRedis />
-                  </Col> */
+                  </Col>
         } {
-            /* <Col xs={4} md={2} className="tech-icons">
+            <Col xs={4} md={2} className="tech-icons">
                     <SiPostgresql />
-                  </Col> */
+                  </Col>
         } {
-            /* <Col xs={4} md={2} className="tech-icons">
+            <Col xs={4} md={2} className="tech-icons">
                     <DiPython />
-                  </Col> */
+                  </Col>
         } {
             /* <Col xs={4} md={2} className="tech-icons">
                     <DiJava />
