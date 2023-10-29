@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Educationcard from "./Educationcard";
 import Particle from "../Particle";
-import vidya from "../../Assets/Education/vidyabharti.jpeg"
 
 
 function Certificate() {
@@ -19,21 +18,19 @@ function Certificate() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="education-card">
             <Educationcard
-              imgPath={vidya}
               isBlog={false}
-              college="VidyaBharti Mahavidyalaya Amravati"
-              title="Master In Computer Application"
-              description="Percentage : 77.13"
+              college="La Trobe University"
+              title="Bachelor's Cyber Security"
+              description="Percentage : 2%"
             />
           </Col>
 
           <Col md={4} className="education-card">
             <Educationcard
-              imgPath={vidya}
               isBlog={false}
-              college="VidyaBharti Mahavidyalaya Amravati"
-              title="Bachlor's In Computer Science"
-              description="Percentage : 71.11"
+              college="RMIT University"
+              title="Cert IV - Information Tech. (Networking)"
+              description="Percentage : 83.5%"
             />
           </Col>
 
