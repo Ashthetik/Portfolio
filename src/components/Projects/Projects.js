@@ -23,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={productlist}
+              imgPath="https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg"
               isBlog={false}
               title="AI Game Enhancements"
               description="Polarity++ is an AI project to help enhance gameplay by using the Player's reactions, heart-rate and emotions to make more reactive NPCs and storylines."
