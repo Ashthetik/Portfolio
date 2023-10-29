@@ -25,21 +25,9 @@ function Projects() {
             <ProjectCard
               imgPath={productlist}
               isBlog={false}
-              title="Product List"
-              description="I've crafted a dynamic product listing in HTML, CSS, and JS, incorporating search and add-to-cart capabilities, enhancing user interaction and simplifying shopping experiences. "
-              ghLink="https://github.com/Tejas-b463/ProductList"
-              demoLink="https://product-list-peach.vercel.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Ui}
-              isBlog={false}
-              title="User Interface"
-              description="I have created simple user interface website using html and css"
-              ghLink="https://github.com/Tejas-b463/shoppi"
-              demoLink="https://tejas-b463.github.io/shoppi/"
+              title="AI Game Enhancements"
+              description="Polarity++ is an AI project to help enhance gameplay by using the Player's reactions, heart-rate and emotions to make more reactive NPCs and storylines."
+              ghLink="https://github.com/Ashthetik/Polarity-"
             />
           </Col>
 
