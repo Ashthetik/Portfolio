@@ -8,7 +8,7 @@ import {
     DiMongodb,
     DiHtml5,
     DiCss3,
-    // DiPython,
+    DiPython,
     DiGit,
     // DiJava,
 } from "react-icons/di";
