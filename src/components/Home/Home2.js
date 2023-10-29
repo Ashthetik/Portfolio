@@ -18,11 +18,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am extremely proficient in Front-End Development using HTML5, CSS3, Javascript, React Js and I have good knowledge in Back-End using Node Js, Mongo DB. 🧑🏻‍💻
+            I am extremely proficient in Back-End Development using various mid to low level languages as well as AI tech stacks (LLM, FER, RPPGA, etc.) 🧑🏻‍💻
               <br />
               <br />A passionate 
               <i>
-                <b className="purple"> Frontend-end React Developer based in Pune, India. 📍  </b>
+                <b className="purple"> C-Sec, CSE, AI Enthusiast from Australia 📍  </b>
               </i>
               <br />
               <br />
@@ -65,32 +65,12 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Tejas-b463"
+                  href="https://github.com/Ashthetik"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiFillGithub />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/tejas-banait/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/tejas_b463/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
