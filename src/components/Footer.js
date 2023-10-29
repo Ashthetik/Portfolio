@@ -13,7 +13,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Tejas Banait</h3>
+          <h3>Designed and Developed by Ashley XiR</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year}</h3>
@@ -22,32 +22,12 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Tejas-b463"
+                href="https://github.com/Ashthetik"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/tejas-banait/"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <FaLinkedinIn />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.instagram.com/tejas_b463/"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillInstagram />
               </a>
             </li>
           </ul>
