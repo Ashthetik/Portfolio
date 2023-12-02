@@ -14,20 +14,6 @@ function ResumeNew() {
 
   return (
     <div>
-      <Container fluid className="resume-section">
-        <Particle />
-            <AiOutlineDownload />
-            &nbsp;Download CV
-          </Button>
-        </Row>
-
-        <Row className="resume">
-        </Row>
-            <AiOutlineDownload />
-            &nbsp;Download CV
-          </Button>
-        </Row>
-      </Container>
     </div>
   );
 }
