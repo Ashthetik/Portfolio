@@ -31,7 +31,7 @@ function Home() {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              <iframe width="640" height="640" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
+              <iframe width="640" height="640" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0"></iframe>
             </Col>
           </Row>
         </Container>
